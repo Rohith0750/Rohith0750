@@ -66,31 +66,37 @@ Cloud computing, distributed systems, and performance optimization
 
 # 💻 Tech Stack
 
-### Backend
-Java • Spring Boot • Microservices • REST API • Hibernate • JPA  
+<p align="center">
 
-### Database
-MySQL • MongoDB • Supabase • Firebase  
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,firebase,supabase" />
 
-### DevOps
-Docker • Kubernetes • Jenkins • Nginx • Apache • GitHub Actions  
+</p>
 
-### Cloud
-AWS • Google Cloud • Render • Netlify  
+<p align="center">
 
-### Frontend
-HTML • CSS • JavaScript • React • Bootstrap  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,nginx,aws,gcp,githubactions" />
 
-### Tools
-Git • Postman • Gradle • Tomcat • NodeJS • OpenCV  
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,gradle,opencv,linux" />
+
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohith0750&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith0750&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rohith0750&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Rohith0750&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -99,21 +105,6 @@ Git • Postman • Gradle • Tomcat • NodeJS • OpenCV
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohith0750&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-# 🔝 Top Contributed Repo
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Rohith0750&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -123,11 +114,12 @@ Git • Postman • Gradle • Tomcat • NodeJS • OpenCV
 
 ---
 
-# 🐍 Contribution Snake
+# 🟩 Contribution Streak
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rohith0750/Rohith0750/output/github-contribution-grid-snake.svg"/>
+<img src="https://ghchart.rshah.org/0e4429/Rohith0750" />
 </p>
+
 
 ---
 
@@ -161,15 +153,20 @@ Microservices templates
 
 # 👨‍💻 Coding Profiles
 
-GitHub: Rohith0750  
-LeetCode: Rohith0750  
+<p align="center">
+
+<img src="https://img.shields.io/badge/GitHub-Rohith0750-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Rohith0750-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</p> 
 
 ---
 
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Rohith0750&icon=5&color=12"/>
+<img src="https://komarev.com/ghpvc/?username=Rohith0750&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
