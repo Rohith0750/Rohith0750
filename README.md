@@ -112,13 +112,6 @@ Cloud computing, distributed systems, and performance optimization
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith0750&theme=tokyo-night"/>
 </p>
 
----
-
-# 🟩 Contribution Streak
-
-<p align="center">
-<img src="https://ghchart.rshah.org/0e4429/Rohith0750" />
-</p>
 
 
 ---
