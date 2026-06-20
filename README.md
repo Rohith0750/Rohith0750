@@ -92,7 +92,7 @@ Cloud computing, distributed systems, and performance optimization
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rohith0750&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -156,7 +156,7 @@ Microservices templates
 
 ---
 
-# 👀 Profile Views
+# Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Rohith0750&style=for-the-badge&color=blueviolet"/>
