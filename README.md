@@ -11,27 +11,27 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
-👨‍💻 I'm currently working on  
+ I'm currently working on  
 Enterprise-level applications and scalable backend systems  
 
-🤝 I'm looking to collaborate on  
+ I'm looking to collaborate on  
 Open source projects related to Java, Spring Boot, and backend development  
 
-🆘 I'm looking for help with  
+ I'm looking for help with  
 System design, microservices architecture, and production-level deployments  
 
-🌱 I'm currently learning  
+ I'm currently learning  
 Spring Boot, Microservices, REST APIs, and Enterprise application architecture  
 
-💬 Ask me about  
+ Ask me about  
 Java, Open source, Backend development, DSA  
 
-⚡ Fun fact  
+ Fun fact  
 I enjoy building scalable systems and turning complex logic into simple code  
 
-🚀 Also interested in  
+Also interested in  
 Cloud computing, distributed systems, and performance optimization  
 
 ---
@@ -64,7 +64,7 @@ Cloud computing, distributed systems, and performance optimization
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -106,7 +106,7 @@ Cloud computing, distributed systems, and performance optimization
 ---
 
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith0750&theme=tokyo-night"/>
@@ -116,7 +116,7 @@ Cloud computing, distributed systems, and performance optimization
 
 ---
 
-# ✍️ Random Dev Quote
+#  Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -124,7 +124,7 @@ Cloud computing, distributed systems, and performance optimization
 
 ---
 
-# 🧠 Currently Working On
+# Currently Working On
 
 Enterprise level applications  
 Scalable backend systems  
@@ -134,7 +134,7 @@ System design architecture
 
 ---
 
-# 🤝 Open Source Collaboration
+#  Open Source Collaboration
 
 Java open source projects  
 Spring Boot libraries  
@@ -144,7 +144,7 @@ Microservices templates
 
 ---
 
-# 👨‍💻 Coding Profiles
+# Coding Profiles
 
 <p align="center">
 
@@ -164,7 +164,7 @@ Microservices templates
 
 ---
 
-# 💫 Let's Connect & Build Together
+# Let's Connect & Build Together
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Engineer;Open+Source+Contributor;Research+and+Development+Team+Member;Vikasana+Presidency+University" />
